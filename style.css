@@ -1,5 +1,6 @@
-.cabecalhos{
-background-color: #2538a3;
+.cabecalho{
+background-color: #5e042e;
+color: white;
 display: flex;
 justify-content: space-around;
 }
@@ -10,4 +11,12 @@ justify-content: space-around;
 
 .cabecalho-lista-item{
     display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
 }
+    
+*  {
+    margin: 0 16px;
+    padding: 0;
+  }
